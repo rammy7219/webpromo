@@ -62,30 +62,30 @@
 		</button>
 		<?php
 		wp_nav_menu([
-			'menu'						=> 'primary',
-			'theme_location'	=> 'primary',
+			'menu'					=> 'primary',
+			'theme_location'		=> 'primary',
 			'container'				=> 'div',
-			'container_id'		=> 'bs4navbar',
-			'container_class'	=> 'collapse navbar-collapse',
-			'menu_id'					=> 'main-menu',
+			'container_id'			=> 'bs4navbar',
+			'container_class'		=> 'collapse navbar-collapse',
+			'menu_id'				=> 'main-menu',
 			'menu_class'			=> 'navbar-nav ml-auto',
-			'depth'						=> 2,
+			'depth'					=> 2,
 			'fallback_cb'			=> 'bs4navwalker::fallback',
-			'walker'					=> new bs4navwalker()
+			'walker'				=> new bs4navwalker()
 		]);
 		?>
 		</nav>
 		<div class="banner">
 			<img src="http://www.web2dezine.com/wp-content/uploads/2019/08/Custom-Banner-Image.jpg" alt="Banner" style="width:100%;">
 			
-			<div class="centered">Web2Dezine</div>
+			<div class="centered">IT Solutions</div>
 		</div>
 	</header><!-- #masthead -->
 
 	<section class="showcase">
 		<div class="container">
 				<div class="page-banner__content container t-center c-white">
-				<img src="http://www.web2dezine.com/wp-content/uploads/2019/08/w2d_logos_small.png">
+				<img src="http://localhost:8000/wayneramshaw/wp-content/uploads/2020/04/w2d_logos_small.png">
 					<h3 id="greeting">Welcome!</h3>
 					<!--<script>document.write('<h3>Welcome!</h3>');</script>-->
 					<!--<h1 class="webpromo_welcome"></h1>-->

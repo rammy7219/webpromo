@@ -16,8 +16,8 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta charset="UTF-8">
-	<meta name="description" content="OneStop IT Solutions Company">
-	<meta name="keywords" content="W2D,Workflow,Web Design,Tyne and Wear,UK,City of Sunderland,Software Engineer,IT">
+	<meta name="description" content="ICT Solutions">
+	<meta name="keywords" content="Wayne Ramshw,Tyne and Wear,UK,City of Sunderland,ICT Solutions,IT Infrastructure,Window,Linux,Networking,Web Solutions,Workflow">
 	<meta name="author" content="Wayne Ramshaw">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
