@@ -89,7 +89,7 @@
 					<h3 id="greeting">Welcome!</h3>
 					<!--<script>document.write('<h3>Welcome!</h3>');</script>-->
 					<!--<h1 class="webpromo_welcome"></h1>-->
-					<h2 class="headline headline--medium">We can help your <strong>business</strong></h2>
+					<h2 class="headline headline--medium">I can help your <strong>business</strong></h2>
 					<h3 class="headline headline--small">grow with better workflow solutions.</h3><br>
 					<a href="<?php echo get_theme_mod('btn_url', 'http://www.web2dezine.com/services/'); ?>" class="btn btn-primary btn-lg"><?php echo get_theme_mod('btn_text', 'Look Here'); ?></a>
 				</div>

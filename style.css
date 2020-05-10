@@ -42,6 +42,9 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 # Typography
 --------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://github.com/googlefonts/Pacifico');
+@import url('https://scripts.sil.org/OFL');
+
 
 body,
 button,
@@ -697,7 +700,7 @@ object {
 	height: 600px;
 	padding: 80px 20px;
 	text-align: center;
-	font-family: 'Sofia', cursive;
+	font-family: 'Pacifico', cursive;
 	font-size: 2.5em; /* 40px/16=2.5em */
 	border-bottom: #ccc 1px solid;
 	margin-bottom: 30px;
